@@ -1,0 +1,16 @@
+{
+  "name": "test-mikro-download",
+  "version": "1.0.0",
+  "description": "test if correct version of mikro orm is being installed in an empty project",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mikro-orm/core": "5.2.3",
+    "@mikro-orm/mongodb": "5.2.3",
+    "@mikro-orm/nestjs": "5.1.0"
+  }
+}
